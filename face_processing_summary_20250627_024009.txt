@@ -1,0 +1,3696 @@
+📁 Created folder: verified_face_images
+🧾 Found 922 image(s) to process.
+
+🔍 Processing: face_face_59_20250107_175858.jpg
+❌ No face detected in: face_face_59_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_segment9.jpg
+✅ Valid face found in: face_face_34_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_51_20250107_175908.jpg
+❌ No face detected in: face_face_51_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_20250107_180050.jpg
+❌ No face detected in: face_face_34_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_segment3.jpg
+❌ No face detected in: face_face_15_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_17_segment6.jpg
+❌ Invalid position for nose: (44, 27)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_20250107_180050.jpg
+❌ No face detected in: face_face_2_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_17_segment2.jpg
+✅ Valid face found in: face_face_17_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_segment1.jpg
+✅ Valid face found in: face_face_1_segment1.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_48_20250107_175908.jpg
+✅ Valid face found in: face_face_48_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_20250107_180050.jpg
+❌ No face detected in: face_face_12_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_32_20250107_175908.jpg
+❌ No face detected in: face_face_32_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_39_segment6.jpg
+✅ Valid face found in: face_face_39_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_segment8.jpg
+❌ No face detected in: face_face_19_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_18_segment2.jpg
+✅ Valid face found in: face_face_18_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_90_20250107_175858.jpg
+❌ No face detected in: face_face_90_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_55_segment8.jpg
+❌ No face detected in: face_face_55_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_18_segment5.jpg
+✅ Valid face found in: face_face_18_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_63_20250107_180050.jpg
+❌ No face detected in: face_face_63_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_4_20250107_175945.jpg
+✅ Valid face found in: face_face_4_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_48_20250107_175922.jpg
+✅ Valid face found in: face_face_48_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_20250107_180050.jpg
+❌ No face detected in: face_face_33_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_37_20250107_175926.jpg
+❌ No face detected in: face_face_37_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_19_20250107_175922.jpg
+✅ Valid face found in: face_face_19_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_47_20250107_175945.jpg
+❌ No face detected in: face_face_47_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_54_20250107_180050.jpg
+❌ No face detected in: face_face_54_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_23_segment9.jpg
+❌ No face detected in: face_face_23_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_53_segment9.jpg
+✅ Valid face found in: face_face_53_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_20250107_175858.jpg
+❌ No face detected in: face_face_14_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_67_20250107_175908.jpg
+❌ No face detected in: face_face_67_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_21_segment5.jpg
+✅ Valid face found in: face_face_21_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_20250107_180023.jpg
+✅ Valid face found in: face_face_11_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_20250107_175922.jpg
+✅ Valid face found in: face_face_11_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_64_20250107_175938.jpg
+❌ No face detected in: face_face_64_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_20250107_175858.jpg
+✅ Valid face found in: face_face_13_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_20250107_175858.jpg
+❌ No face detected in: face_face_58_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_20250107_175908.jpg
+✅ Valid face found in: face_face_16_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_20250107_175945.jpg
+✅ Valid face found in: face_face_14_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_56_20250107_175926.jpg
+✅ Valid face found in: face_face_56_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_20250107_175926.jpg
+✅ Valid face found in: face_face_28_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_43_20250107_175926.jpg
+✅ Valid face found in: face_face_43_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_20250107_175908.jpg
+❌ No face detected in: face_face_6_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_20_20250107_175938.jpg
+✅ Valid face found in: face_face_20_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_segment8.jpg
+✅ Valid face found in: face_face_35_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_segment9.jpg
+✅ Valid face found in: face_face_2_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_66_20250107_175922.jpg
+❌ No face detected in: face_face_66_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_segment8.jpg
+❌ No face detected in: face_face_9_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_17_segment3.jpg
+❌ No face detected in: face_face_17_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_51_segment8.jpg
+❌ No face detected in: face_face_51_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_20250107_175922.jpg
+✅ Valid face found in: face_face_16_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_8_20250107_180023.jpg
+✅ Valid face found in: face_face_8_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_51_20250107_175945.jpg
+✅ Valid face found in: face_face_51_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_20250107_175908.jpg
+✅ Valid face found in: face_face_10_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_20250107_175938.jpg
+✅ Valid face found in: face_face_33_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_20250107_180023.jpg
+❌ No face detected in: face_face_19_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_51_segment9.jpg
+✅ Valid face found in: face_face_51_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_60_20250107_180023.jpg
+✅ Valid face found in: face_face_60_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_20250107_175945.jpg
+❌ No face detected in: face_face_10_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_65_20250107_175938.jpg
+✅ Valid face found in: face_face_65_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_segment7.jpg
+❌ No face detected in: face_face_21_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_segment3.jpg
+❌ No face detected in: face_face_3_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_42_segment9.jpg
+✅ Valid face found in: face_face_42_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_segment3.jpg
+❌ No face detected in: face_face_27_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_22_segment8.jpg
+✅ Valid face found in: face_face_22_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_20250107_180023.jpg
+✅ Valid face found in: face_face_12_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_segment1.jpg
+✅ Valid face found in: face_face_4_segment1.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_20250107_180023.jpg
+❌ No face detected in: face_face_50_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_57_segment9.jpg
+❌ No face detected in: face_face_57_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_segment4.jpg
+✅ Valid face found in: face_face_3_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_20250107_175908.jpg
+❌ No face detected in: face_face_4_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_17_20250107_175938.jpg
+✅ Valid face found in: face_face_17_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_20250107_175858.jpg
+✅ Valid face found in: face_face_19_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_32_20250107_180050.jpg
+✅ Valid face found in: face_face_32_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_45_segment8.jpg
+✅ Valid face found in: face_face_45_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_segment9.jpg
+✅ Valid face found in: face_face_31_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment4.jpg
+❌ No face detected in: face_face_10_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_47_20250107_180050.jpg
+❌ No face detected in: face_face_47_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_47_20250107_175938.jpg
+✅ Valid face found in: face_face_47_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_segment5.jpg
+✅ Valid face found in: face_face_2_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_20250107_175938.jpg
+✅ Valid face found in: face_face_52_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_49_20250107_175908.jpg
+✅ Valid face found in: face_face_49_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_20250107_175945.jpg
+✅ Valid face found in: face_face_1_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_segment7.jpg
+❌ No face detected in: face_face_16_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_51_20250107_180023.jpg
+✅ Valid face found in: face_face_51_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_20250107_175858.jpg
+❌ No face detected in: face_face_7_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_24_segment6.jpg
+❌ No face detected in: face_face_24_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_36_20250107_175926.jpg
+✅ Valid face found in: face_face_36_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_62_20250107_175926.jpg
+✅ Valid face found in: face_face_62_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_20250107_175908.jpg
+✅ Valid face found in: face_face_35_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_20250107_180023.jpg
+✅ Valid face found in: face_face_4_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_48_20250107_180023.jpg
+❌ No face detected in: face_face_48_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_20_20250107_175926.jpg
+✅ Valid face found in: face_face_20_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_24_20250107_175945.jpg
+✅ Valid face found in: face_face_24_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_segment4.jpg
+❌ No face detected in: face_face_30_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_40_20250107_180023.jpg
+✅ Valid face found in: face_face_40_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_segment9.jpg
+✅ Valid face found in: face_face_50_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_65_20250107_175926.jpg
+❌ No face detected in: face_face_65_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_40_20250107_175926.jpg
+✅ Valid face found in: face_face_40_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_segment6.jpg
+❌ No face detected in: face_face_20_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_56_segment8.jpg
+❌ No face detected in: face_face_56_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_54_segment8.jpg
+❌ No face detected in: face_face_54_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_78_20250107_175858.jpg
+❌ No face detected in: face_face_78_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_62_segment9.jpg
+❌ No face detected in: face_face_62_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_22_20250107_175922.jpg
+✅ Valid face found in: face_face_22_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_20250107_175926.jpg
+✅ Valid face found in: face_face_31_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_36_20250107_180023.jpg
+✅ Valid face found in: face_face_36_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_38_20250107_180023.jpg
+✅ Valid face found in: face_face_38_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_44_20250107_175858.jpg
+✅ Valid face found in: face_face_44_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_segment6.jpg
+✅ Valid face found in: face_face_31_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_39_20250107_175938.jpg
+✅ Valid face found in: face_face_39_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_32_20250107_175922.jpg
+✅ Valid face found in: face_face_32_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_20250107_175922.jpg
+✅ Valid face found in: face_face_25_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_20250107_175945.jpg
+❌ No face detected in: face_face_5_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_14_segment4.jpg
+✅ Valid face found in: face_face_14_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_91_20250107_175858.jpg
+✅ Valid face found in: face_face_91_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_81_20250107_175858.jpg
+❌ No face detected in: face_face_81_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_segment7.jpg
+✅ Valid face found in: face_face_15_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_segment9.jpg
+✅ Valid face found in: face_face_21_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_20250107_175922.jpg
+❌ No face detected in: face_face_50_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_1_segment2.jpg
+✅ Valid face found in: face_face_1_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_20250107_175938.jpg
+✅ Valid face found in: face_face_26_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_38_20250107_175858.jpg
+✅ Valid face found in: face_face_38_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_46_20250107_180050.jpg
+✅ Valid face found in: face_face_46_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_22_20250107_175938.jpg
+✅ Valid face found in: face_face_22_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_80_20250107_175858.jpg
+✅ Valid face found in: face_face_80_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_42_20250107_175908.jpg
+❌ No face detected in: face_face_42_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_18_segment3.jpg
+❌ No face detected in: face_face_18_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_1_20250107_175922.jpg
+✅ Valid face found in: face_face_1_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_20250107_175908.jpg
+✅ Valid face found in: face_face_7_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_46_20250107_175938.jpg
+✅ Valid face found in: face_face_46_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_20250107_175926.jpg
+✅ Valid face found in: face_face_6_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_40_segment6.jpg
+❌ No face detected in: face_face_40_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_73_20250107_175858.jpg
+✅ Valid face found in: face_face_73_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_segment2.jpg
+✅ Valid face found in: face_face_16_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_104_20250107_175858.jpg
+❌ No face detected in: face_face_104_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_54_20250107_175858.jpg
+✅ Valid face found in: face_face_54_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_segment4.jpg
+❌ No face detected in: face_face_16_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_55_20250107_175926.jpg
+❌ No face detected in: face_face_55_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_65_20250107_175945.jpg
+❌ Invalid position for left_eye: (52, 23)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_70_20250107_175926.jpg
+❌ No face detected in: face_face_70_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_32_20250107_175938.jpg
+✅ Valid face found in: face_face_32_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_75_20250107_175858.jpg
+❌ No face detected in: face_face_75_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_32_20250107_180023.jpg
+✅ Valid face found in: face_face_32_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_20250107_175938.jpg
+✅ Valid face found in: face_face_28_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_47_20250107_175858.jpg
+❌ No face detected in: face_face_47_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_20250107_175926.jpg
+✅ Valid face found in: face_face_2_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_9_20250107_175922.jpg
+✅ Valid face found in: face_face_9_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_42_20250107_175922.jpg
+✅ Valid face found in: face_face_42_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_63_20250107_175908.jpg
+✅ Valid face found in: face_face_63_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_94_20250107_175858.jpg
+❌ No face detected in: face_face_94_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_60_20250107_175926.jpg
+✅ Valid face found in: face_face_60_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_segment5.jpg
+✅ Valid face found in: face_face_16_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_segment8.jpg
+❌ No face detected in: face_face_30_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment1.jpg
+❌ No face detected in: face_face_8_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_20250107_180050.jpg
+❌ No face detected in: face_face_9_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_1_segment7.jpg
+❌ No face detected in: face_face_1_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_20_20250107_175922.jpg
+✅ Valid face found in: face_face_20_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_54_20250107_175908.jpg
+✅ Valid face found in: face_face_54_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_20250107_175858.jpg
+✅ Valid face found in: face_face_18_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_83_20250107_175945.jpg
+✅ Valid face found in: face_face_83_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_20250107_175945.jpg
+✅ Valid face found in: face_face_52_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_20250107_175858.jpg
+✅ Valid face found in: face_face_33_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_32_segment7.jpg
+❌ No face detected in: face_face_32_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_22_20250107_180023.jpg
+✅ Valid face found in: face_face_22_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_77_20250107_175858.jpg
+✅ Valid face found in: face_face_77_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_57_segment8.jpg
+❌ No face detected in: face_face_57_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_segment2.jpg
+✅ Valid face found in: face_face_2_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_20250107_180023.jpg
+✅ Valid face found in: face_face_1_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_segment5.jpg
+✅ Valid face found in: face_face_15_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_segment9.jpg
+✅ Valid face found in: face_face_1_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_80_20250107_175945.jpg
+❌ No face detected in: face_face_80_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_46_segment6.jpg
+❌ No face detected in: face_face_46_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_48_20250107_175926.jpg
+✅ Valid face found in: face_face_48_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_47_segment9.jpg
+❌ No face detected in: face_face_47_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_20250107_175908.jpg
+✅ Valid face found in: face_face_8_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_48_20250107_175938.jpg
+✅ Valid face found in: face_face_48_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_segment8.jpg
+❌ No face detected in: face_face_7_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_segment6.jpg
+❌ Invalid position for mouth_left: (49, 36)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_5_20250107_180050.jpg
+❌ No face detected in: face_face_5_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_29_segment4.jpg
+✅ Valid face found in: face_face_29_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_segment8.jpg
+❌ No face detected in: face_face_6_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_19_20250107_175926.jpg
+✅ Valid face found in: face_face_19_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_segment3.jpg
+✅ Valid face found in: face_face_1_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_53_20250107_175858.jpg
+✅ Valid face found in: face_face_53_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_100_20250107_175858.jpg
+✅ Valid face found in: face_face_100_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_20250107_175858.jpg
+❌ No face detected in: face_face_41_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_33_20250107_175945.jpg
+❌ No face detected in: face_face_33_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_43_20250107_175858.jpg
+❌ No face detected in: face_face_43_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_54_20250107_180023.jpg
+✅ Valid face found in: face_face_54_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_20250107_175926.jpg
+✅ Valid face found in: face_face_26_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_62_20250107_180050.jpg
+✅ Valid face found in: face_face_62_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_55_20250107_180050.jpg
+❌ No face detected in: face_face_55_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_29_segment9.jpg
+✅ Valid face found in: face_face_29_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_20250107_180023.jpg
+❌ No face detected in: face_face_7_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_1_segment8.jpg
+✅ Valid face found in: face_face_1_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_segment4.jpg
+❌ No face detected in: face_face_1_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_45_20250107_180050.jpg
+❌ No face detected in: face_face_45_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_64_segment9.jpg
+✅ Valid face found in: face_face_64_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_60_20250107_175938.jpg
+❌ No face detected in: face_face_60_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_segment8.jpg
+✅ Valid face found in: face_face_2_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_segment6.jpg
+❌ No face detected in: face_face_30_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_42_20250107_180023.jpg
+✅ Valid face found in: face_face_42_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_53_20250107_180023.jpg
+✅ Valid face found in: face_face_53_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_segment3.jpg
+❌ No face detected in: face_face_25_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment3.jpg
+❌ No face detected in: face_face_8_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_53_20250107_175945.jpg
+✅ Valid face found in: face_face_53_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_82_20250107_175858.jpg
+❌ No face detected in: face_face_82_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_18_20250107_180023.jpg
+✅ Valid face found in: face_face_18_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_segment7.jpg
+❌ No face detected in: face_face_35_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_22_20250107_175926.jpg
+✅ Valid face found in: face_face_22_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_segment2.jpg
+✅ Valid face found in: face_face_14_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_20250107_180050.jpg
+✅ Valid face found in: face_face_50_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_20250107_175922.jpg
+✅ Valid face found in: face_face_12_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_67_20250107_175858.jpg
+✅ Valid face found in: face_face_67_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_20250107_175858.jpg
+✅ Valid face found in: face_face_29_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_segment8.jpg
+❌ No face detected in: face_face_5_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_segment5.jpg
+✅ Valid face found in: face_face_9_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_57_20250107_175922.jpg
+❌ No face detected in: face_face_57_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_62_20250107_175858.jpg
+✅ Valid face found in: face_face_62_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_20250107_180050.jpg
+✅ Valid face found in: face_face_17_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_20250107_175908.jpg
+❌ No face detected in: face_face_28_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_56_20250107_180050.jpg
+❌ No face detected in: face_face_56_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_37_segment6.jpg
+❌ No face detected in: face_face_37_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_96_20250107_175858.jpg
+❌ No face detected in: face_face_96_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_segment1.jpg
+❌ No face detected in: face_face_15_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_42_20250107_180050.jpg
+❌ No face detected in: face_face_42_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_20250107_175938.jpg
+❌ No face detected in: face_face_34_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_31_20250107_180023.jpg
+✅ Valid face found in: face_face_31_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_20250107_180050.jpg
+✅ Valid face found in: face_face_19_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_20250107_175938.jpg
+❌ No face detected in: face_face_35_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_12_segment5.jpg
+✅ Valid face found in: face_face_12_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_20250107_175858.jpg
+✅ Valid face found in: face_face_30_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_24_20250107_180023.jpg
+✅ Valid face found in: face_face_24_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment6.jpg
+❌ No face detected in: face_face_10_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_49_20250107_175926.jpg
+✅ Valid face found in: face_face_49_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_20250107_175858.jpg
+✅ Valid face found in: face_face_5_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_20250107_175908.jpg
+✅ Valid face found in: face_face_52_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_37_20250107_180050.jpg
+❌ No face detected in: face_face_37_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_40_segment9.jpg
+✅ Valid face found in: face_face_40_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_49_segment8.jpg
+✅ Valid face found in: face_face_49_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_20250107_175908.jpg
+✅ Valid face found in: face_face_18_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_20250107_175858.jpg
+✅ Valid face found in: face_face_25_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_60_20250107_180050.jpg
+✅ Valid face found in: face_face_60_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_36_20250107_175908.jpg
+✅ Valid face found in: face_face_36_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_54_20250107_175922.jpg
+✅ Valid face found in: face_face_54_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_20250107_175926.jpg
+✅ Valid face found in: face_face_7_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_segment5.jpg
+❌ No face detected in: face_face_20_segment5.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_7_segment3.jpg
+✅ Valid face found in: face_face_7_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_20250107_175858.jpg
+✅ Valid face found in: face_face_17_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_20250107_175858.jpg
+✅ Valid face found in: face_face_15_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_20250107_175945.jpg
+✅ Valid face found in: face_face_2_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_20250107_175926.jpg
+✅ Valid face found in: face_face_10_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_39_20250107_175945.jpg
+✅ Valid face found in: face_face_39_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_71_20250107_175938.jpg
+❌ No face detected in: face_face_71_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_44_20250107_175945.jpg
+✅ Valid face found in: face_face_44_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_segment1.jpg
+❌ No face detected in: face_face_13_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_56_20250107_180023.jpg
+✅ Valid face found in: face_face_56_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_20250107_175922.jpg
+✅ Valid face found in: face_face_41_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_segment9.jpg
+✅ Valid face found in: face_face_20_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_segment3.jpg
+✅ Valid face found in: face_face_4_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment5.jpg
+✅ Valid face found in: face_face_11_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_74_20250107_175945.jpg
+✅ Valid face found in: face_face_74_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_segment6.jpg
+❌ No face detected in: face_face_13_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_39_20250107_175926.jpg
+❌ No face detected in: face_face_39_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment2.jpg
+✅ Valid face found in: face_face_8_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_20250107_175908.jpg
+❌ No face detected in: face_face_1_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_12_segment8.jpg
+✅ Valid face found in: face_face_12_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_segment9.jpg
+✅ Valid face found in: face_face_41_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_46_20250107_180023.jpg
+✅ Valid face found in: face_face_46_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_72_20250107_175858.jpg
+✅ Valid face found in: face_face_72_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_segment9.jpg
+✅ Valid face found in: face_face_58_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_20250107_180023.jpg
+✅ Valid face found in: face_face_33_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_44_20250107_175938.jpg
+❌ No face detected in: face_face_44_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_105_20250107_175858.jpg
+❌ No face detected in: face_face_105_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_20250107_175858.jpg
+✅ Valid face found in: face_face_16_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_37_20250107_175908.jpg
+✅ Valid face found in: face_face_37_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_22_20250107_175908.jpg
+❌ No face detected in: face_face_22_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_39_20250107_175908.jpg
+❌ No face detected in: face_face_39_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_23_20250107_175922.jpg
+✅ Valid face found in: face_face_23_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_20250107_175908.jpg
+❌ No face detected in: face_face_33_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_segment3.jpg
+❌ No face detected in: face_face_16_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_82_20250107_175945.jpg
+✅ Valid face found in: face_face_82_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_20250107_175908.jpg
+✅ Valid face found in: face_face_31_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_60_20250107_175922.jpg
+❌ No face detected in: face_face_60_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_17_20250107_175926.jpg
+✅ Valid face found in: face_face_17_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_segment2.jpg
+✅ Valid face found in: face_face_21_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_22_20250107_180050.jpg
+✅ Valid face found in: face_face_22_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_57_20250107_175926.jpg
+✅ Valid face found in: face_face_57_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_20250107_180023.jpg
+✅ Valid face found in: face_face_10_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_36_segment9.jpg
+✅ Valid face found in: face_face_36_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_20250107_175926.jpg
+✅ Valid face found in: face_face_25_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_segment8.jpg
+✅ Valid face found in: face_face_21_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment6.jpg
+❌ No face detected in: face_face_11_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_49_20250107_175945.jpg
+❌ No face detected in: face_face_49_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_48_20250107_175945.jpg
+❌ No face detected in: face_face_48_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_71_20250107_175858.jpg
+❌ No face detected in: face_face_71_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_33_segment9.jpg
+✅ Valid face found in: face_face_33_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_65_20250107_175922.jpg
+❌ No face detected in: face_face_65_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_43_20250107_180050.jpg
+❌ No face detected in: face_face_43_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_101_20250107_175858.jpg
+✅ Valid face found in: face_face_101_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_segment2.jpg
+✅ Valid face found in: face_face_5_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_61_20250107_175858.jpg
+❌ No face detected in: face_face_61_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_20250107_175922.jpg
+✅ Valid face found in: face_face_8_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_segment4.jpg
+❌ No face detected in: face_face_23_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_segment2.jpg
+✅ Valid face found in: face_face_3_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_20250107_175926.jpg
+❌ No face detected in: face_face_58_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_81_20250107_175945.jpg
+❌ No face detected in: face_face_81_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_20250107_175945.jpg
+✅ Valid face found in: face_face_3_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_8_20250107_175938.jpg
+✅ Valid face found in: face_face_8_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_63_20250107_175945.jpg
+✅ Valid face found in: face_face_63_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_8_20250107_175926.jpg
+✅ Valid face found in: face_face_8_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_59_segment9.jpg
+❌ No face detected in: face_face_59_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_55_20250107_180023.jpg
+❌ No face detected in: face_face_55_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_26_20250107_180050.jpg
+❌ No face detected in: face_face_26_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_32_segment8.jpg
+✅ Valid face found in: face_face_32_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_59_20250107_175926.jpg
+❌ No face detected in: face_face_59_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_11_20250107_175858.jpg
+✅ Valid face found in: face_face_11_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_73_20250107_175945.jpg
+✅ Valid face found in: face_face_73_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_56_20250107_175938.jpg
+✅ Valid face found in: face_face_56_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_9_20250107_175908.jpg
+✅ Valid face found in: face_face_9_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_20250107_175858.jpg
+✅ Valid face found in: face_face_12_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_20250107_175945.jpg
+❌ No face detected in: face_face_20_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_56_20250107_175945.jpg
+✅ Valid face found in: face_face_56_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_49_20250107_175938.jpg
+❌ No face detected in: face_face_49_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_10_20250107_180050.jpg
+❌ No face detected in: face_face_10_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_24_20250107_175938.jpg
+✅ Valid face found in: face_face_24_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_segment2.jpg
+✅ Valid face found in: face_face_15_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_segment6.jpg
+✅ Valid face found in: face_face_33_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_segment1.jpg
+✅ Valid face found in: face_face_6_segment1.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment2.jpg
+✅ Valid face found in: face_face_10_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_20250107_175945.jpg
+✅ Valid face found in: face_face_35_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_24_segment7.jpg
+✅ Valid face found in: face_face_24_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_segment5.jpg
+❌ No face detected in: face_face_17_segment5.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_1_20250107_175858.jpg
+✅ Valid face found in: face_face_1_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_51_20250107_175926.jpg
+❌ No face detected in: face_face_51_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment4.jpg
+✅ Valid face found in: face_face_8_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_55_20250107_175858.jpg
+✅ Valid face found in: face_face_55_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_segment6.jpg
+✅ Valid face found in: face_face_16_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_segment8.jpg
+✅ Valid face found in: face_face_15_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_65_20250107_175908.jpg
+✅ Valid face found in: face_face_65_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_segment8.jpg
+✅ Valid face found in: face_face_17_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_62_20250107_175908.jpg
+✅ Valid face found in: face_face_62_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_22_segment7.jpg
+❌ No face detected in: face_face_22_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_36_segment6.jpg
+✅ Valid face found in: face_face_36_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_55_20250107_175945.jpg
+✅ Valid face found in: face_face_55_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment4.jpg
+✅ Valid face found in: face_face_11_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_20250107_175938.jpg
+✅ Valid face found in: face_face_3_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_segment1.jpg
+❌ No face detected in: face_face_14_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_14_segment6.jpg
+✅ Valid face found in: face_face_14_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_63_20250107_175938.jpg
+✅ Valid face found in: face_face_63_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_segment1.jpg
+✅ Valid face found in: face_face_3_segment1.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_segment5.jpg
+✅ Valid face found in: face_face_19_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_32_segment9.jpg
+❌ No face detected in: face_face_32_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_40_segment8.jpg
+❌ No face detected in: face_face_40_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_20250107_180050.jpg
+✅ Valid face found in: face_face_13_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_20250107_175908.jpg
+❌ No face detected in: face_face_30_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_45_20250107_175938.jpg
+❌ No face detected in: face_face_45_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_102_20250107_175858.jpg
+❌ No face detected in: face_face_102_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_20250107_180023.jpg
+✅ Valid face found in: face_face_34_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_segment7.jpg
+❌ No face detected in: face_face_4_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_11_segment1.jpg
+❌ No face detected in: face_face_11_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_46_20250107_175858.jpg
+✅ Valid face found in: face_face_46_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_42_segment8.jpg
+❌ No face detected in: face_face_42_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_7_segment6.jpg
+✅ Valid face found in: face_face_7_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_43_20250107_175908.jpg
+✅ Valid face found in: face_face_43_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_segment7.jpg
+❌ No face detected in: face_face_17_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_18_segment6.jpg
+❌ No face detected in: face_face_18_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_22_segment6.jpg
+✅ Valid face found in: face_face_22_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_20250107_175945.jpg
+❌ No face detected in: face_face_30_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_35_20250107_175858.jpg
+✅ Valid face found in: face_face_35_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_51_20250107_175858.jpg
+❌ No face detected in: face_face_51_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_44_20250107_180023.jpg
+✅ Valid face found in: face_face_44_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_56_20250107_175922.jpg
+✅ Valid face found in: face_face_56_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_42_20250107_175858.jpg
+✅ Valid face found in: face_face_42_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_20250107_175926.jpg
+✅ Valid face found in: face_face_5_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_20250107_175922.jpg
+✅ Valid face found in: face_face_28_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_22_segment4.jpg
+✅ Valid face found in: face_face_22_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_20250107_180023.jpg
+✅ Valid face found in: face_face_17_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_20250107_175922.jpg
+✅ Valid face found in: face_face_58_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_20250107_175926.jpg
+✅ Valid face found in: face_face_13_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_segment7.jpg
+❌ Invalid position for mouth_left: (49, 36)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_41_segment8.jpg
+❌ No face detected in: face_face_41_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_45_segment6.jpg
+❌ No face detected in: face_face_45_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_45_20250107_175922.jpg
+✅ Valid face found in: face_face_45_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_59_20250107_175938.jpg
+✅ Valid face found in: face_face_59_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_20250107_175938.jpg
+✅ Valid face found in: face_face_23_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_45_20250107_175945.jpg
+✅ Valid face found in: face_face_45_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_38_segment7.jpg
+✅ Valid face found in: face_face_38_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_segment3.jpg
+❌ No face detected in: face_face_29_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_46_20250107_175922.jpg
+✅ Valid face found in: face_face_46_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_segment4.jpg
+❌ No face detected in: face_face_20_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_20250107_175908.jpg
+❌ No face detected in: face_face_3_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_55_20250107_175908.jpg
+✅ Valid face found in: face_face_55_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_24_20250107_175908.jpg
+✅ Valid face found in: face_face_24_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_20250107_175908.jpg
+❌ No face detected in: face_face_12_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_29_20250107_175908.jpg
+✅ Valid face found in: face_face_29_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_20250107_175922.jpg
+✅ Valid face found in: face_face_31_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_59_20250107_175922.jpg
+✅ Valid face found in: face_face_59_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_20250107_180050.jpg
+✅ Valid face found in: face_face_15_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_37_20250107_175922.jpg
+✅ Valid face found in: face_face_37_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_64_20250107_175908.jpg
+✅ Valid face found in: face_face_64_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_20250107_175908.jpg
+❌ Invalid position for right_eye: (-3, 37)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_segment9.jpg
+✅ Valid face found in: face_face_16_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_20250107_175922.jpg
+✅ Valid face found in: face_face_29_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_segment4.jpg
+❌ No face detected in: face_face_2_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_38_20250107_180050.jpg
+✅ Valid face found in: face_face_38_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_38_segment6.jpg
+❌ No face detected in: face_face_38_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_17_segment4.jpg
+✅ Valid face found in: face_face_17_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_segment8.jpg
+✅ Valid face found in: face_face_4_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_segment7.jpg
+❌ No face detected in: face_face_12_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_46_segment8.jpg
+✅ Valid face found in: face_face_46_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_20250107_175922.jpg
+❌ No face detected in: face_face_33_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_31_20250107_175858.jpg
+✅ Valid face found in: face_face_31_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_20250107_180050.jpg
+✅ Valid face found in: face_face_4_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_60_20250107_175908.jpg
+✅ Valid face found in: face_face_60_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_99_20250107_175858.jpg
+❌ No face detected in: face_face_99_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_21_segment4.jpg
+✅ Valid face found in: face_face_21_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_64_20250107_175926.jpg
+❌ No face detected in: face_face_64_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_48_20250107_180050.jpg
+✅ Valid face found in: face_face_48_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_segment3.jpg
+❌ No face detected in: face_face_21_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_70_20250107_175945.jpg
+✅ Valid face found in: face_face_70_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_20250107_180023.jpg
+❌ No face detected in: face_face_2_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_49_20250107_175922.jpg
+✅ Valid face found in: face_face_49_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_45_20250107_175908.jpg
+❌ No face detected in: face_face_45_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_18_segment8.jpg
+❌ No face detected in: face_face_18_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_30_20250107_175922.jpg
+✅ Valid face found in: face_face_30_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_20250107_175938.jpg
+✅ Valid face found in: face_face_18_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_20250107_175922.jpg
+❌ No face detected in: face_face_21_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_segment6.jpg
+✅ Valid face found in: face_face_6_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_107_20250107_175858.jpg
+❌ No face detected in: face_face_107_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_65_20250107_175858.jpg
+✅ Valid face found in: face_face_65_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_40_segment7.jpg
+❌ No face detected in: face_face_40_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_24_segment8.jpg
+❌ No face detected in: face_face_24_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_37_20250107_175858.jpg
+✅ Valid face found in: face_face_37_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_20250107_180023.jpg
+✅ Valid face found in: face_face_21_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_38_20250107_175938.jpg
+✅ Valid face found in: face_face_38_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_segment6.jpg
+❌ No face detected in: face_face_35_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_37_20250107_180023.jpg
+✅ Valid face found in: face_face_37_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_40_20250107_175858.jpg
+✅ Valid face found in: face_face_40_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_20250107_175908.jpg
+✅ Valid face found in: face_face_23_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_segment4.jpg
+❌ No face detected in: face_face_26_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_segment8.jpg
+✅ Valid face found in: face_face_34_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_37_segment7.jpg
+❌ No face detected in: face_face_37_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_41_20250107_175926.jpg
+✅ Valid face found in: face_face_41_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment5.jpg
+✅ Valid face found in: face_face_10_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_69_20250107_175938.jpg
+✅ Valid face found in: face_face_69_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_20250107_175908.jpg
+✅ Valid face found in: face_face_58_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_57_20250107_180050.jpg
+✅ Valid face found in: face_face_57_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_segment7.jpg
+✅ Valid face found in: face_face_20_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_39_20250107_180050.jpg
+✅ Valid face found in: face_face_39_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_20250107_175926.jpg
+✅ Valid face found in: face_face_23_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_20250107_175938.jpg
+❌ No face detected in: face_face_50_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_segment2.jpg
+✅ Valid face found in: face_face_13_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_segment9.jpg
+✅ Valid face found in: face_face_13_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_67_20250107_175945.jpg
+✅ Valid face found in: face_face_67_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_36_20250107_180050.jpg
+❌ No face detected in: face_face_36_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_20250107_175926.jpg
+✅ Valid face found in: face_face_9_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_20250107_175945.jpg
+✅ Valid face found in: face_face_6_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_51_20250107_175938.jpg
+✅ Valid face found in: face_face_51_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_79_20250107_175858.jpg
+✅ Valid face found in: face_face_79_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_62_20250107_175938.jpg
+✅ Valid face found in: face_face_62_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_20250107_175858.jpg
+✅ Valid face found in: face_face_2_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_20250107_175922.jpg
+✅ Valid face found in: face_face_17_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_65_20250107_180050.jpg
+✅ Valid face found in: face_face_65_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_67_20250107_175926.jpg
+✅ Valid face found in: face_face_67_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_segment9.jpg
+✅ Valid face found in: face_face_7_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_36_20250107_175945.jpg
+❌ No face detected in: face_face_36_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_24_20250107_175926.jpg
+❌ No face detected in: face_face_24_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_75_20250107_175945.jpg
+✅ Valid face found in: face_face_75_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_53_20250107_180050.jpg
+✅ Valid face found in: face_face_53_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_24_segment3.jpg
+❌ No face detected in: face_face_24_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_45_20250107_175858.jpg
+✅ Valid face found in: face_face_45_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_20250107_175938.jpg
+✅ Valid face found in: face_face_13_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment2.jpg
+✅ Valid face found in: face_face_11_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_20250107_175926.jpg
+✅ Valid face found in: face_face_14_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_20250107_175938.jpg
+✅ Valid face found in: face_face_30_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_95_20250107_175858.jpg
+✅ Valid face found in: face_face_95_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_segment4.jpg
+❌ No face detected in: face_face_15_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_66_20250107_175926.jpg
+✅ Valid face found in: face_face_66_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_20250107_175922.jpg
+✅ Valid face found in: face_face_18_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_43_20250107_175922.jpg
+✅ Valid face found in: face_face_43_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_20250107_175858.jpg
+✅ Valid face found in: face_face_3_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_segment1.jpg
+❌ No face detected in: face_face_12_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_24_20250107_175922.jpg
+✅ Valid face found in: face_face_24_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_69_20250107_175926.jpg
+✅ Valid face found in: face_face_69_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_segment8.jpg
+✅ Valid face found in: face_face_52_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_segment9.jpg
+❌ No face detected in: face_face_5_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_23_segment8.jpg
+❌ No face detected in: face_face_23_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_53_20250107_175908.jpg
+✅ Valid face found in: face_face_53_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_89_20250107_175858.jpg
+❌ No face detected in: face_face_89_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment6.jpg
+❌ No face detected in: face_face_8_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_39_segment9.jpg
+❌ No face detected in: face_face_39_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_59_20250107_180050.jpg
+✅ Valid face found in: face_face_59_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_20250107_175926.jpg
+✅ Valid face found in: face_face_4_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_segment5.jpg
+✅ Valid face found in: face_face_14_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_20250107_175938.jpg
+✅ Valid face found in: face_face_7_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_63_20250107_175922.jpg
+❌ No face detected in: face_face_63_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_68_20250107_175938.jpg
+❌ No face detected in: face_face_68_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_49_20250107_180023.jpg
+✅ Valid face found in: face_face_49_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment8.jpg
+❌ No face detected in: face_face_10_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_20250107_180023.jpg
+✅ Valid face found in: face_face_13_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_segment8.jpg
+✅ Valid face found in: face_face_50_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_46_segment9.jpg
+✅ Valid face found in: face_face_46_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_segment7.jpg
+✅ Valid face found in: face_face_23_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_segment8.jpg
+❌ No face detected in: face_face_25_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_segment5.jpg
+✅ Valid face found in: face_face_6_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_segment6.jpg
+❌ No face detected in: face_face_15_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_41_segment6.jpg
+❌ No face detected in: face_face_41_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_56_20250107_175858.jpg
+✅ Valid face found in: face_face_56_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_segment3.jpg
+✅ Valid face found in: face_face_12_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_53_20250107_175922.jpg
+❌ No face detected in: face_face_53_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_25_20250107_175938.jpg
+✅ Valid face found in: face_face_25_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_57_20250107_180023.jpg
+✅ Valid face found in: face_face_57_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_69_20250107_175858.jpg
+❌ No face detected in: face_face_69_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_29_segment8.jpg
+✅ Valid face found in: face_face_29_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_65_segment9.jpg
+❌ No face detected in: face_face_65_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_66_20250107_175945.jpg
+✅ Valid face found in: face_face_66_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_8_segment7.jpg
+❌ No face detected in: face_face_8_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_segment3.jpg
+❌ No face detected in: face_face_2_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_20250107_175858.jpg
+❌ No face detected in: face_face_6_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_46_20250107_175908.jpg
+❌ No face detected in: face_face_46_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_42_20250107_175926.jpg
+✅ Valid face found in: face_face_42_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_20250107_175922.jpg
+✅ Valid face found in: face_face_27_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_32_20250107_175926.jpg
+✅ Valid face found in: face_face_32_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_2_segment6.jpg
+✅ Valid face found in: face_face_2_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_segment7.jpg
+✅ Valid face found in: face_face_7_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_20250107_180023.jpg
+❌ No face detected in: face_face_27_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_20250107_175926.jpg
+❌ No face detected in: face_face_34_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_61_20250107_175945.jpg
+✅ Valid face found in: face_face_61_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_20250107_175922.jpg
+❌ No face detected in: face_face_13_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_57_20250107_175945.jpg
+✅ Valid face found in: face_face_57_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_103_20250107_175858.jpg
+✅ Valid face found in: face_face_103_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_85_20250107_175858.jpg
+✅ Valid face found in: face_face_85_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_segment9.jpg
+❌ No face detected in: face_face_19_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_48_segment9.jpg
+✅ Valid face found in: face_face_48_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_9_segment9.jpg
+❌ No face detected in: face_face_9_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_21_20250107_175858.jpg
+✅ Valid face found in: face_face_21_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_72_20250107_175945.jpg
+❌ No face detected in: face_face_72_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_26_segment6.jpg
+❌ No face detected in: face_face_26_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_20250107_180023.jpg
+❌ No face detected in: face_face_9_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_4_segment5.jpg
+❌ No face detected in: face_face_4_segment5.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_25_20250107_175945.jpg
+✅ Valid face found in: face_face_25_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_22_segment9.jpg
+❌ No face detected in: face_face_22_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_60_20250107_175945.jpg
+✅ Valid face found in: face_face_60_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_20250107_180050.jpg
+✅ Valid face found in: face_face_18_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_34_20250107_175908.jpg
+✅ Valid face found in: face_face_34_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_20250107_180023.jpg
+❌ Invalid position for right_eye: (-1, 7)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_20250107_175945.jpg
+✅ Valid face found in: face_face_9_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_20250107_180050.jpg
+✅ Valid face found in: face_face_52_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_20250107_175945.jpg
+❌ No face detected in: face_face_26_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_1_20250107_175938.jpg
+✅ Valid face found in: face_face_1_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_segment4.jpg
+✅ Valid face found in: face_face_25_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_20250107_180023.jpg
+✅ Valid face found in: face_face_25_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_segment6.jpg
+✅ Valid face found in: face_face_5_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment8.jpg
+✅ Valid face found in: face_face_11_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_20250107_175922.jpg
+✅ Valid face found in: face_face_6_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_20250107_180023.jpg
+❌ No face detected in: face_face_5_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_64_20250107_175922.jpg
+❌ No face detected in: face_face_64_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_55_20250107_175922.jpg
+❌ No face detected in: face_face_55_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_20250107_175908.jpg
+❌ No face detected in: face_face_2_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_35_20250107_175922.jpg
+✅ Valid face found in: face_face_35_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_20250107_180050.jpg
+✅ Valid face found in: face_face_23_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_segment9.jpg
+❌ No face detected in: face_face_30_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_segment4.jpg
+❌ No face detected in: face_face_13_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_22_20250107_175858.jpg
+✅ Valid face found in: face_face_22_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_60_segment9.jpg
+❌ No face detected in: face_face_60_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_21_20250107_175945.jpg
+✅ Valid face found in: face_face_21_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_20250107_175908.jpg
+✅ Valid face found in: face_face_19_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_20250107_175926.jpg
+✅ Valid face found in: face_face_27_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_76_20250107_175858.jpg
+✅ Valid face found in: face_face_76_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_67_20250107_175938.jpg
+❌ No face detected in: face_face_67_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_14_20250107_180050.jpg
+✅ Valid face found in: face_face_14_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_20250107_175945.jpg
+❌ No face detected in: face_face_23_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_61_segment9.jpg
+❌ No face detected in: face_face_61_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_segment8.jpg
+✅ Valid face found in: face_face_13_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_20250107_175945.jpg
+✅ Valid face found in: face_face_31_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_8_20250107_175858.jpg
+✅ Valid face found in: face_face_8_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_24_segment9.jpg
+✅ Valid face found in: face_face_24_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_segment7.jpg
+❌ No face detected in: face_face_18_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_29_segment7.jpg
+✅ Valid face found in: face_face_29_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_20250107_180023.jpg
+✅ Valid face found in: face_face_35_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_20250107_180023.jpg
+❌ No face detected in: face_face_58_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_23_segment6.jpg
+❌ No face detected in: face_face_23_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_38_20250107_175945.jpg
+✅ Valid face found in: face_face_38_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_segment5.jpg
+❌ No face detected in: face_face_5_segment5.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_19_20250107_175938.jpg
+✅ Valid face found in: face_face_19_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_20250107_175945.jpg
+✅ Valid face found in: face_face_15_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_20250107_180050.jpg
+✅ Valid face found in: face_face_30_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_40_20250107_175908.jpg
+✅ Valid face found in: face_face_40_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_segment1.jpg
+❌ No face detected in: face_face_5_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_20_segment2.jpg
+❌ No face detected in: face_face_20_segment2.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_52_20250107_180023.jpg
+❌ No face detected in: face_face_52_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_28_segment3.jpg
+✅ Valid face found in: face_face_28_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_98_20250107_175858.jpg
+❌ No face detected in: face_face_98_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_64_20250107_175858.jpg
+❌ No face detected in: face_face_64_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_36_segment7.jpg
+✅ Valid face found in: face_face_36_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_20250107_175938.jpg
+✅ Valid face found in: face_face_11_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_39_20250107_175858.jpg
+❌ No face detected in: face_face_39_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_27_segment6.jpg
+❌ No face detected in: face_face_27_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_44_20250107_175922.jpg
+✅ Valid face found in: face_face_44_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_20250107_175945.jpg
+✅ Valid face found in: face_face_18_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_segment2.jpg
+❌ No face detected in: face_face_19_segment2.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_62_20250107_175945.jpg
+❌ Invalid position for mouth_left: (46, 42)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_12_segment2.jpg
+✅ Valid face found in: face_face_12_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_68_20250107_175926.jpg
+✅ Valid face found in: face_face_68_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_segment6.jpg
+❌ No face detected in: face_face_1_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_28_20250107_175858.jpg
+✅ Valid face found in: face_face_28_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_segment9.jpg
+✅ Valid face found in: face_face_12_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_9_segment7.jpg
+✅ Valid face found in: face_face_9_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_20250107_175922.jpg
+✅ Valid face found in: face_face_7_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_segment9.jpg
+✅ Valid face found in: face_face_27_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_segment4.jpg
+✅ Valid face found in: face_face_19_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment9.jpg
+❌ No face detected in: face_face_10_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_24_20250107_180050.jpg
+❌ No face detected in: face_face_24_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_57_20250107_175908.jpg
+✅ Valid face found in: face_face_57_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_20250107_180050.jpg
+✅ Valid face found in: face_face_29_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_segment8.jpg
+✅ Valid face found in: face_face_14_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_20250107_180050.jpg
+✅ Valid face found in: face_face_31_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_49_segment9.jpg
+✅ Valid face found in: face_face_49_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_37_segment8.jpg
+✅ Valid face found in: face_face_37_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_20250107_180050.jpg
+❌ No face detected in: face_face_1_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_5_20250107_175922.jpg
+✅ Valid face found in: face_face_5_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_38_20250107_175926.jpg
+✅ Valid face found in: face_face_38_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_59_20250107_175945.jpg
+❌ No face detected in: face_face_59_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_26_20250107_175908.jpg
+❌ No face detected in: face_face_26_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_29_segment6.jpg
+✅ Valid face found in: face_face_29_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_49_20250107_175858.jpg
+❌ No face detected in: face_face_49_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_20250107_175945.jpg
+✅ Valid face found in: face_face_13_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_43_segment8.jpg
+✅ Valid face found in: face_face_43_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_45_20250107_180023.jpg
+✅ Valid face found in: face_face_45_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_33_segment7.jpg
+❌ No face detected in: face_face_33_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_segment1.jpg
+✅ Valid face found in: face_face_9_segment1.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_66_20250107_175908.jpg
+✅ Valid face found in: face_face_66_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_63_20250107_175858.jpg
+✅ Valid face found in: face_face_63_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_59_20250107_180023.jpg
+✅ Valid face found in: face_face_59_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_70_20250107_175858.jpg
+❌ No face detected in: face_face_70_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_61_20250107_180023.jpg
+❌ No face detected in: face_face_61_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_38_20250107_175908.jpg
+❌ No face detected in: face_face_38_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_44_20250107_175908.jpg
+❌ No face detected in: face_face_44_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_20250107_175908.jpg
+❌ No face detected in: face_face_15_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment9.jpg
+❌ No face detected in: face_face_8_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_4_segment9.jpg
+✅ Valid face found in: face_face_4_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_20250107_180050.jpg
+❌ No face detected in: face_face_41_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_51_20250107_175922.jpg
+✅ Valid face found in: face_face_51_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_20250107_175858.jpg
+❌ No face detected in: face_face_52_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_39_segment8.jpg
+✅ Valid face found in: face_face_39_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_55_20250107_175938.jpg
+✅ Valid face found in: face_face_55_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_71_20250107_175926.jpg
+❌ No face detected in: face_face_71_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_13_20250107_175908.jpg
+✅ Valid face found in: face_face_13_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_37_segment9.jpg
+✅ Valid face found in: face_face_37_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_46_20250107_175945.jpg
+✅ Valid face found in: face_face_46_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_77_20250107_175945.jpg
+❌ No face detected in: face_face_77_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_10_segment3.jpg
+❌ No face detected in: face_face_10_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_38_segment8.jpg
+✅ Valid face found in: face_face_38_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_segment7.jpg
+✅ Valid face found in: face_face_28_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_20250107_175945.jpg
+✅ Valid face found in: face_face_11_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_20250107_180023.jpg
+✅ Valid face found in: face_face_3_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_20250107_175922.jpg
+✅ Valid face found in: face_face_3_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_segment6.jpg
+❌ No face detected in: face_face_12_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_segment8.jpg
+✅ Valid face found in: face_face_3_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_1_segment5.jpg
+✅ Valid face found in: face_face_1_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_20250107_175938.jpg
+✅ Valid face found in: face_face_27_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_20250107_180023.jpg
+✅ Valid face found in: face_face_20_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_20250107_175938.jpg
+✅ Valid face found in: face_face_29_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_45_20250107_175926.jpg
+❌ No face detected in: face_face_45_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_segment6.jpg
+❌ No face detected in: face_face_34_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment8.jpg
+✅ Valid face found in: face_face_8_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_20250107_175858.jpg
+✅ Valid face found in: face_face_26_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_segment3.jpg
+✅ Valid face found in: face_face_19_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_34_20250107_175945.jpg
+✅ Valid face found in: face_face_34_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_20250107_175938.jpg
+✅ Valid face found in: face_face_41_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment3.jpg
+✅ Valid face found in: face_face_11_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_segment8.jpg
+✅ Valid face found in: face_face_26_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_92_20250107_175858.jpg
+❌ No face detected in: face_face_92_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_20250107_180050.jpg
+✅ Valid face found in: face_face_8_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_61_20250107_175922.jpg
+❌ No face detected in: face_face_61_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_segment4.jpg
+❌ No face detected in: face_face_9_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_20_20250107_180050.jpg
+✅ Valid face found in: face_face_20_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_68_20250107_175858.jpg
+✅ Valid face found in: face_face_68_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_37_20250107_175945.jpg
+❌ No face detected in: face_face_37_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_50_20250107_175945.jpg
+❌ No face detected in: face_face_50_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_12_20250107_175945.jpg
+✅ Valid face found in: face_face_12_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_20250107_175858.jpg
+✅ Valid face found in: face_face_10_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_20250107_180023.jpg
+✅ Valid face found in: face_face_29_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_segment7.jpg
+✅ Valid face found in: face_face_6_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_segment3.jpg
+❌ No face detected in: face_face_13_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_segment9.jpg
+✅ Valid face found in: face_face_6_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_20250107_180023.jpg
+✅ Valid face found in: face_face_14_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_segment5.jpg
+✅ Valid face found in: face_face_13_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_20250107_175945.jpg
+❌ No face detected in: face_face_19_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_25_20250107_180050.jpg
+✅ Valid face found in: face_face_25_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_34_20250107_175858.jpg
+❌ No face detected in: face_face_34_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_10_20250107_175938.jpg
+✅ Valid face found in: face_face_10_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_20250107_175908.jpg
+❌ No face detected in: face_face_25_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_43_20250107_175945.jpg
+✅ Valid face found in: face_face_43_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_61_20250107_175908.jpg
+❌ No face detected in: face_face_61_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_27_20250107_175945.jpg
+✅ Valid face found in: face_face_27_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_20250107_180050.jpg
+❌ No face detected in: face_face_3_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_21_20250107_175908.jpg
+✅ Valid face found in: face_face_21_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_20250107_175922.jpg
+✅ Valid face found in: face_face_10_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_13_segment7.jpg
+✅ Valid face found in: face_face_13_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_segment2.jpg
+✅ Valid face found in: face_face_6_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_24_20250107_175858.jpg
+✅ Valid face found in: face_face_24_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_88_20250107_175858.jpg
+✅ Valid face found in: face_face_88_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_20250107_175922.jpg
+✅ Valid face found in: face_face_14_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_20250107_175908.jpg
+✅ Valid face found in: face_face_27_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_20250107_175938.jpg
+✅ Valid face found in: face_face_58_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_segment8.jpg
+✅ Valid face found in: face_face_20_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_segment5.jpg
+✅ Valid face found in: face_face_3_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_segment9.jpg
+❌ No face detected in: face_face_14_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_74_20250107_175858.jpg
+❌ No face detected in: face_face_74_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_83_20250107_175858.jpg
+❌ No face detected in: face_face_83_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_28_20250107_180023.jpg
+❌ No face detected in: face_face_28_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_27_20250107_175858.jpg
+✅ Valid face found in: face_face_27_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_71_20250107_175945.jpg
+❌ No face detected in: face_face_71_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_31_segment8.jpg
+✅ Valid face found in: face_face_31_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_20250107_175926.jpg
+✅ Valid face found in: face_face_12_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_42_20250107_175945.jpg
+❌ No face detected in: face_face_42_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_32_segment6.jpg
+✅ Valid face found in: face_face_32_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_47_20250107_180023.jpg
+❌ No face detected in: face_face_47_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_20_20250107_175858.jpg
+✅ Valid face found in: face_face_20_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_20250107_175926.jpg
+✅ Valid face found in: face_face_18_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_66_20250107_175938.jpg
+❌ No face detected in: face_face_66_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_14_segment3.jpg
+❌ No face detected in: face_face_14_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_5_segment4.jpg
+❌ No face detected in: face_face_5_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_1_20250107_175926.jpg
+✅ Valid face found in: face_face_1_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_53_20250107_175926.jpg
+❌ No face detected in: face_face_53_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_19_segment7.jpg
+✅ Valid face found in: face_face_19_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_36_20250107_175922.jpg
+✅ Valid face found in: face_face_36_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_54_segment9.jpg
+✅ Valid face found in: face_face_54_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_54_20250107_175926.jpg
+✅ Valid face found in: face_face_54_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_segment6.jpg
+❌ No face detected in: face_face_4_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_68_20250107_175945.jpg
+✅ Valid face found in: face_face_68_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_20250107_180023.jpg
+❌ No face detected in: face_face_30_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_93_20250107_175858.jpg
+❌ No face detected in: face_face_93_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_12_20250107_175938.jpg
+✅ Valid face found in: face_face_12_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_44_20250107_175926.jpg
+✅ Valid face found in: face_face_44_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_67_20250107_175922.jpg
+❌ No face detected in: face_face_67_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_20250107_175938.jpg
+✅ Valid face found in: face_face_15_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_20250107_175908.jpg
+✅ Valid face found in: face_face_20_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_20250107_175926.jpg
+✅ Valid face found in: face_face_30_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_20250107_180023.jpg
+✅ Valid face found in: face_face_16_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_segment4.jpg
+❌ No face detected in: face_face_4_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_47_20250107_175926.jpg
+✅ Valid face found in: face_face_47_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_66_20250107_175858.jpg
+✅ Valid face found in: face_face_66_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_12_segment4.jpg
+✅ Valid face found in: face_face_12_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_9_20250107_175938.jpg
+✅ Valid face found in: face_face_9_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_20250107_180050.jpg
+❌ No face detected in: face_face_11_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_21_20250107_180050.jpg
+❌ No face detected in: face_face_21_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_3_segment7.jpg
+❌ No face detected in: face_face_3_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_segment8.jpg
+✅ Valid face found in: face_face_16_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_61_20250107_180050.jpg
+❌ No face detected in: face_face_61_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_28_segment8.jpg
+❌ No face detected in: face_face_28_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_27_segment7.jpg
+❌ No face detected in: face_face_27_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_57_20250107_175858.jpg
+❌ No face detected in: face_face_57_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_28_segment6.jpg
+✅ Valid face found in: face_face_28_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_20250107_175926.jpg
+✅ Valid face found in: face_face_3_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_97_20250107_175858.jpg
+❌ No face detected in: face_face_97_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_20250107_180050.jpg
+✅ Valid face found in: face_face_6_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_54_20250107_175938.jpg
+✅ Valid face found in: face_face_54_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_20250107_175908.jpg
+❌ No face detected in: face_face_14_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_46_20250107_175926.jpg
+✅ Valid face found in: face_face_46_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_42_20250107_175938.jpg
+✅ Valid face found in: face_face_42_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_32_20250107_175858.jpg
+✅ Valid face found in: face_face_32_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_20250107_175938.jpg
+❌ No face detected in: face_face_14_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_58_20250107_180050.jpg
+✅ Valid face found in: face_face_58_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_43_20250107_180023.jpg
+✅ Valid face found in: face_face_43_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_40_20250107_175922.jpg
+❌ No face detected in: face_face_40_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_segment4.jpg
+✅ Valid face found in: face_face_6_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_27_segment8.jpg
+✅ Valid face found in: face_face_27_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment7.jpg
+✅ Valid face found in: face_face_10_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_9_20250107_175858.jpg
+❌ No face detected in: face_face_9_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_33_20250107_175926.jpg
+✅ Valid face found in: face_face_33_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_segment9.jpg
+✅ Valid face found in: face_face_17_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_64_20250107_180050.jpg
+❌ No face detected in: face_face_64_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_26_segment3.jpg
+❌ No face detected in: face_face_26_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_segment3.jpg
+✅ Valid face found in: face_face_6_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_44_segment9.jpg
+✅ Valid face found in: face_face_44_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_20250107_175926.jpg
+✅ Valid face found in: face_face_35_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_59_20250107_175908.jpg
+✅ Valid face found in: face_face_59_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_39_segment7.jpg
+❌ No face detected in: face_face_39_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_49_20250107_180050.jpg
+❌ No face detected in: face_face_49_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_segment9.jpg
+✅ Valid face found in: face_face_15_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_44_segment6.jpg
+❌ No face detected in: face_face_44_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_27_segment4.jpg
+✅ Valid face found in: face_face_27_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_20_segment3.jpg
+❌ No face detected in: face_face_20_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_62_20250107_175922.jpg
+✅ Valid face found in: face_face_62_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_61_20250107_175926.jpg
+❌ No face detected in: face_face_61_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_21_20250107_175938.jpg
+✅ Valid face found in: face_face_21_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_20250107_175926.jpg
+❌ No face detected in: face_face_21_20250107_175926.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_24_segment4.jpg
+✅ Valid face found in: face_face_24_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_39_20250107_180023.jpg
+✅ Valid face found in: face_face_39_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment9.jpg
+✅ Valid face found in: face_face_11_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_34_20250107_175922.jpg
+❌ No face detected in: face_face_34_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_27_20250107_180050.jpg
+✅ Valid face found in: face_face_27_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_20250107_175922.jpg
+✅ Valid face found in: face_face_52_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_segment9.jpg
+❌ No face detected in: face_face_28_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_segment1.jpg
+❌ No face detected in: face_face_16_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_7_20250107_180050.jpg
+❌ No face detected in: face_face_7_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_40_20250107_175938.jpg
+✅ Valid face found in: face_face_40_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_48_segment8.jpg
+✅ Valid face found in: face_face_48_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_14_segment7.jpg
+❌ No face detected in: face_face_14_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_segment3.jpg
+❌ No face detected in: face_face_9_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_20250107_175926.jpg
+✅ Valid face found in: face_face_15_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_segment7.jpg
+✅ Valid face found in: face_face_26_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_52_segment9.jpg
+✅ Valid face found in: face_face_52_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_17_20250107_175908.jpg
+✅ Valid face found in: face_face_17_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_106_20250107_175858.jpg
+❌ No face detected in: face_face_106_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_34_segment7.jpg
+❌ No face detected in: face_face_34_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_38_segment9.jpg
+✅ Valid face found in: face_face_38_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_segment9.jpg
+✅ Valid face found in: face_face_18_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_3_segment9.jpg
+❌ Invalid position for mouth_left: (48, 37)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_20250107_175945.jpg
+✅ Valid face found in: face_face_8_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_20250107_175908.jpg
+✅ Valid face found in: face_face_11_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_43_segment6.jpg
+✅ Valid face found in: face_face_43_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_segment2.jpg
+✅ Valid face found in: face_face_7_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_38_20250107_175922.jpg
+❌ Invalid position for left_eye: (80, 49)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_47_20250107_175908.jpg
+❌ No face detected in: face_face_47_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_35_segment9.jpg
+❌ No face detected in: face_face_35_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_17_20250107_175945.jpg
+✅ Valid face found in: face_face_17_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_56_20250107_175908.jpg
+✅ Valid face found in: face_face_56_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_21_segment6.jpg
+✅ Valid face found in: face_face_21_segment6.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_20250107_180050.jpg
+❌ No face detected in: face_face_28_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_20250107_175945.jpg
+✅ Valid face found in: face_face_16_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_6_20250107_180023.jpg
+❌ No face detected in: face_face_6_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_61_20250107_175938.jpg
+❌ No face detected in: face_face_61_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_39_20250107_175922.jpg
+❌ No face detected in: face_face_39_20250107_175922.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_54_20250107_175945.jpg
+❌ No face detected in: face_face_54_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_segment6.jpg
+❌ No face detected in: face_face_9_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_58_segment8.jpg
+✅ Valid face found in: face_face_58_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_20250107_175908.jpg
+❌ No face detected in: face_face_41_20250107_175908.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_20250107_175922.jpg
+✅ Valid face found in: face_face_2_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_60_20250107_175858.jpg
+❌ No face detected in: face_face_60_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_63_20250107_175926.jpg
+✅ Valid face found in: face_face_63_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_20250107_180050.jpg
+✅ Valid face found in: face_face_16_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_segment7.jpg
+✅ Valid face found in: face_face_31_segment7.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_20250107_175922.jpg
+✅ Valid face found in: face_face_26_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_20250107_175858.jpg
+❌ No face detected in: face_face_23_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_43_20250107_175938.jpg
+✅ Valid face found in: face_face_43_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_20250107_175908.jpg
+✅ Valid face found in: face_face_50_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_10_segment1.jpg
+✅ Valid face found in: face_face_10_segment1.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_44_20250107_180050.jpg
+✅ Valid face found in: face_face_44_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_20250107_175945.jpg
+✅ Valid face found in: face_face_29_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_36_segment8.jpg
+✅ Valid face found in: face_face_36_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_45_segment9.jpg
+❌ No face detected in: face_face_45_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_7_segment5.jpg
+✅ Valid face found in: face_face_7_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_32_20250107_175945.jpg
+✅ Valid face found in: face_face_32_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_40_20250107_175945.jpg
+❌ No face detected in: face_face_40_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_51_20250107_180050.jpg
+✅ Valid face found in: face_face_51_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_64_20250107_175945.jpg
+❌ No face detected in: face_face_64_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_25_segment7.jpg
+❌ No face detected in: face_face_25_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_68_20250107_175922.jpg
+✅ Valid face found in: face_face_68_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_44_segment8.jpg
+✅ Valid face found in: face_face_44_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_segment4.jpg
+✅ Valid face found in: face_face_7_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_84_20250107_175858.jpg
+✅ Valid face found in: face_face_84_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_20250107_175945.jpg
+✅ Valid face found in: face_face_7_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_47_segment6.jpg
+❌ No face detected in: face_face_47_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_37_20250107_175938.jpg
+✅ Valid face found in: face_face_37_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_86_20250107_175858.jpg
+✅ Valid face found in: face_face_86_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_20250107_175938.jpg
+✅ Valid face found in: face_face_5_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_70_20250107_175938.jpg
+✅ Valid face found in: face_face_70_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_segment9.jpg
+✅ Valid face found in: face_face_25_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_20250107_175926.jpg
+✅ Valid face found in: face_face_50_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_20250107_175938.jpg
+✅ Valid face found in: face_face_31_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_30_segment7.jpg
+❌ No face detected in: face_face_30_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_8_segment5.jpg
+✅ Valid face found in: face_face_8_segment5.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_26_segment9.jpg
+✅ Valid face found in: face_face_26_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_7_segment1.jpg
+❌ No face detected in: face_face_7_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_6_20250107_175938.jpg
+✅ Valid face found in: face_face_6_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_22_20250107_175945.jpg
+✅ Valid face found in: face_face_22_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_20250107_175926.jpg
+✅ Valid face found in: face_face_11_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_41_20250107_175945.jpg
+✅ Valid face found in: face_face_41_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_87_20250107_175858.jpg
+❌ No face detected in: face_face_87_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_segment1.jpg
+❌ No face detected in: face_face_2_segment1.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_36_20250107_175938.jpg
+❌ No face detected in: face_face_36_20250107_175938.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_2_20250107_175938.jpg
+✅ Valid face found in: face_face_2_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_segment4.jpg
+✅ Valid face found in: face_face_28_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_42_segment6.jpg
+❌ No face detected in: face_face_42_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_5_segment3.jpg
+❌ Invalid position for mouth_left: (50, 36)
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_53_20250107_175938.jpg
+✅ Valid face found in: face_face_53_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_16_20250107_175938.jpg
+✅ Valid face found in: face_face_16_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_19_segment6.jpg
+❌ No face detected in: face_face_19_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_48_20250107_175858.jpg
+❌ No face detected in: face_face_48_20250107_175858.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_22_segment3.jpg
+✅ Valid face found in: face_face_22_segment3.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_segment2.jpg
+✅ Valid face found in: face_face_4_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_56_segment9.jpg
+❌ No face detected in: face_face_56_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_16_20250107_175926.jpg
+✅ Valid face found in: face_face_16_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_79_20250107_175945.jpg
+❌ No face detected in: face_face_79_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_36_20250107_175858.jpg
+✅ Valid face found in: face_face_36_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_29_20250107_175926.jpg
+✅ Valid face found in: face_face_29_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_76_20250107_175945.jpg
+❌ No face detected in: face_face_76_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_53_segment8.jpg
+✅ Valid face found in: face_face_53_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_78_20250107_175945.jpg
+❌ No face detected in: face_face_78_20250107_175945.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_69_20250107_175945.jpg
+✅ Valid face found in: face_face_69_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_segment3.jpg
+❌ No face detected in: face_face_23_segment3.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_47_segment8.jpg
+✅ Valid face found in: face_face_47_segment8.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_63_segment9.jpg
+❌ No face detected in: face_face_63_segment9.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_26_20250107_180023.jpg
+❌ No face detected in: face_face_26_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_9_segment2.jpg
+✅ Valid face found in: face_face_9_segment2.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_43_segment9.jpg
+✅ Valid face found in: face_face_43_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_25_segment6.jpg
+❌ No face detected in: face_face_25_segment6.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_57_20250107_175938.jpg
+✅ Valid face found in: face_face_57_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_11_segment7.jpg
+❌ No face detected in: face_face_11_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_15_20250107_180023.jpg
+❌ No face detected in: face_face_15_20250107_180023.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_33_segment8.jpg
+❌ No face detected in: face_face_33_segment8.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_52_20250107_175926.jpg
+✅ Valid face found in: face_face_52_20250107_175926.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_20250107_175922.jpg
+✅ Valid face found in: face_face_4_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_18_segment4.jpg
+✅ Valid face found in: face_face_18_segment4.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_23_20250107_180023.jpg
+✅ Valid face found in: face_face_23_20250107_180023.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_55_segment9.jpg
+✅ Valid face found in: face_face_55_segment9.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_50_20250107_175858.jpg
+✅ Valid face found in: face_face_50_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_15_20250107_175922.jpg
+✅ Valid face found in: face_face_15_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_28_20250107_175945.jpg
+✅ Valid face found in: face_face_28_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_40_20250107_180050.jpg
+✅ Valid face found in: face_face_40_20250107_180050.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_31_segment4.jpg
+❌ No face detected in: face_face_31_segment4.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_68_20250107_175908.jpg
+✅ Valid face found in: face_face_68_20250107_175908.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_4_20250107_175858.jpg
+✅ Valid face found in: face_face_4_20250107_175858.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_5_segment7.jpg
+❌ No face detected in: face_face_5_segment7.jpg
+⏭️  Skipped: does not meet criteria.
+
+🔍 Processing: face_face_4_20250107_175938.jpg
+✅ Valid face found in: face_face_4_20250107_175938.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_47_20250107_175922.jpg
+✅ Valid face found in: face_face_47_20250107_175922.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_58_20250107_175945.jpg
+✅ Valid face found in: face_face_58_20250107_175945.jpg
+📥 Copied to verified folder.
+
+🔍 Processing: face_face_35_20250107_180050.jpg
+❌ No face detected in: face_face_35_20250107_180050.jpg
+⏭️  Skipped: does not meet criteria.
+
+📊 Processing Summary:
+✅ Verified images: 574
+⏭️  Skipped images: 348
+📁 Output saved to folder: verified_face_images
+📝 Log saved to file: face_processing_summary_20250627_024009.txt
