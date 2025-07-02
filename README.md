@@ -7,7 +7,8 @@ A powerful and modern facial detection and recognition system that enhances Reti
 
 Watch the demo below to see AMS in action:
 
-[![AMS Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![AMS Demo](https://img.youtube.com/vi/gPaLAJ2wzOM/0.jpg)](https://www.youtube.com/watch?v=gPaLAJ2wzOM)
+
 
 ## 📸 Overview
 
